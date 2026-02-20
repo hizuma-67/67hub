@@ -585,7 +585,7 @@ TabPlayer:CreateToggle({
 })
 
 -- [TAB ÂM NHẠC - PROMAX EDITION]
-local TabMusic = Window:CreateTab("Âm Nhạc 🎵", 13749714890)
+local TabMusic = Window:CreateTab("Âm Nhạc 🎵", 14420842855)
 TabMusic:CreateSection("📌 Trình phát nhạc")
 
 TabMusic:CreateLabel("Điều khiển nhạc hệ thống")
